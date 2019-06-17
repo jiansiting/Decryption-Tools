@@ -171,8 +171,8 @@ https://www.bleepingcomputer.com/download/fileslockerdecrypter/dl/378/
 Rannoh解密器用来解密Fury勒索软件加密的文件
 http://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip
 
-[GandCrab (V1, V4 and V5 up to V5.1 versions) Ransom]
-BDGandCrabDecryptTool解密器用来解密GandCrab (V1, V4 and V5 up to V5.1 versions)勒索软件加密的文件
+[GandCrab (V1, V4 and V5 up to V5.2 versions) Ransom]
+BDGandCrabDecryptTool解密器用来解密GandCrab (V1, V4 and V5 up to V5.2 versions)勒索软件加密的文件
 http://download.bitdefender.com/am/malware_removal/BDGandCrabDecryptTool.exe
 
 [GetCrypt Ransom]
